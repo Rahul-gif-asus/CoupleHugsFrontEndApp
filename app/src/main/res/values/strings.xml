@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CoupleHugs</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="verify">Verify</string>
+    <string name="already_have_account">Already have an Account? Login</string>
+    <string name="otp">OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="almost_done">Almost Done!</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dd_mm_yy">DD-MM-YY</string>
+    <string name="email">Email</string>
+    <string name="upload_profile_picture">Upload Profile Picture</string>
+    <string name="upload">Upload</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="gender_prompt">Select Gender</string>
+    <string name="stay_close">Stay Close!</string>
+</resources>
