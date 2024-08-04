@@ -27,16 +27,16 @@
         <item name="android:background">@drawable/_bg__sign_in_shape</item>
     </style>
     <style name="Ellipse_5" parent="android:Widget">
-        <item name="android:background">@drawable/ellipse_5_shape</item>
+        <item name="android:background">@drawable/ellipse_shape</item>
     </style>
     <style name="Ellipse_4" parent="android:Widget">
-        <item name="android:background">@drawable/ellipse_4_shape</item>
+        <item name="android:background">@drawable/ellipse_shape</item>
     </style>
     <style name="Line_4" parent="android:Widget">
-        <item name="android:background">@drawable/line_4_shape</item>
+        <item name="android:background">@drawable/line_shape</item>
     </style>
     <style name="Line_3" parent="android:Widget">
-        <item name="android:background">@drawable/line_3_shape</item>
+        <item name="android:background">@drawable/line_shape</item>
     </style>
     <style name="Rectangle_1" parent="android:Widget">
         <item name="android:background">@drawable/rectangle_1</item>

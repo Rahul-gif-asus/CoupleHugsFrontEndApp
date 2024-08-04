@@ -16,7 +16,7 @@ class SignInActivity : AppCompatActivity() {
         val passwordTextView = findViewById<TextView>(R.id.password1)
         val forgotPasswordTextView = findViewById<TextView>(R.id.forgot_your_password_)
         val signInTextView = findViewById<TextView>(R.id.sign_in_ek1)
-        val googleLoginButton = findViewById<ImageView>(R.id.google_pay_send_computer_icons_google_logo_g_suite_new_entry_4ce3c9c790d1081dc15fdf372b9e4942_1)
+        val googleLoginButton = findViewById<ImageView>(R.id.google_icon)
         val facebookLoginButton = findViewById<ImageView>(R.id.facebook_f_logo__2021__svg_1)
 
         // Handle clicks

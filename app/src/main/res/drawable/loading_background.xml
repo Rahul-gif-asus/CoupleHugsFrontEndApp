@@ -11,7 +11,7 @@
     </item>
     <item>
         <bitmap
-            android:src="@drawable/heart"
+            android:src="awable/heart"
             android:gravity="center" />
     </item>
     <!-- Add more heart images as needed -->
