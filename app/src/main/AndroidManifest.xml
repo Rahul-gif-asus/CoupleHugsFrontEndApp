@@ -10,7 +10,7 @@
         android:theme="@style/Theme.CoupleHugsFrontend">
 
         <activity android:name=".LoadingActivity"
-            android:theme="@style/SplashTheme"
+            android:theme="@style/Theme.CoupleHugsFrontend"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

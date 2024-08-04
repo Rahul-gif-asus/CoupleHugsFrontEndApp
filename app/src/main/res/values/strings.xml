@@ -15,5 +15,13 @@
     <string name="upload">Upload</string>
     <string name="skip_for_now">Skip for now</string>
     <string name="gender_prompt">Select Gender</string>
+    <!-- Add missing strings -->
     <string name="stay_close">Stay Close!</string>
+    <string name="email_string">Email</string>
+    <string name="password_string">Password</string>
+    <string name="forgot_your_password__string">Forgot Your Password?</string>
+    <string name="sign_in_string">Sign In</string>
+    <string name="sign_in_ek1_string">Sign In</string>
+    <string name="or_string">Or</string>
+    <string name="don_t_have_an_account__sign_up_string">Don\'t Have an Account? Sign Up</string>
 </resources>
